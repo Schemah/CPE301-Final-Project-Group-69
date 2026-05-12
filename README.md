@@ -2,8 +2,8 @@
 ATmega2560 ultrasonic system with LCD, buzzer, and state machine. 
 
 Group members:
-Adam Santos
-Edrei Bugtong
+- Adam Santos
+- Edrei Bugtong
 
 Overview:
 This system uses a ultrasonic sensor on a walking stick to measure distance. It has four states:
